@@ -1,0 +1,36 @@
+* compiler
+* npm
+* lite-server
+* datatype declaration
+* tuples
+* enum
+* any
+* union
+* literal type
+* return type for function
+* undefined type acceptable typescript
+* Unknown and Never types
+* unknown can't be assigned to other datatyped variables
+* never return nothing
+* void return undefined
+* tsc typescript.ts --watch or tsc typescript.ts -w
+* tsc --init
+* when we use dom we have to include " as HTMLInputElement or as HTMLBodyElement
+* if we don't iclude above the typescript underastant as undefined or unknown or null
+* add new property exclude in ts configuration file to exclude those file with extension
+* **/* for excluding all files
+* include property this only compile mentioned files
+* /* all files are included
+* es2016 (es7) new version
+* map() -> set()
+* lib => "DOM","ES6","DOM.Iterable","ScriptHost"
+* it does not use classical object oriented like java and c++
+* noEmitOnError useful to solve all errors first then we can compile it
+* bind() method
+* class
+* Access modifiers -> public and private
+* readonly
+* protected
+* setters and getters
+* static method
+* npm install lite-server --save-dev
